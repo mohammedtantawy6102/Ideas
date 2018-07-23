@@ -9,3 +9,7 @@ New skills to learn:
 
 Skills currently undertaking:
 - Android (JAVA & xml)
+
+Android apps idea:
+- Phone silencer for people going inside the masjid or places that agree
+- Camera plate scanner, connect to gov api and pull details request
