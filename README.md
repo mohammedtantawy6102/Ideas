@@ -13,3 +13,6 @@ Skills currently undertaking:
 Android apps idea:
 - Phone silencer for people going inside the masjid or places that agree
 - Camera plate scanner, connect to gov api and pull details request
+
+
+adlsfjkhskdfjhsli
